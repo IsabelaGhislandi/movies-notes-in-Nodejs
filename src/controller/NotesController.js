@@ -87,7 +87,6 @@ class NotesController {
   
       return res.json(notesWhithTags)
     }
-
     
 }
 
