@@ -87,7 +87,7 @@ class NotesController {
   
       return res.json(notesWhithTags)
     }
-    
+
 }
 
 module.exports = NotesController
