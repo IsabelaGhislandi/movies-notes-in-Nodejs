@@ -1,5 +1,8 @@
 # Movie notes
-Application in Node.js where the user registers a movie, fills in some information (name, description, note) and creates tags related to it. In this project, password encryption, e-mail validation and the use of a query builder were implemented.
+Application built with Node.js where users can register movies by providing information such as name, description, and rating, and by adding tags related to each movie.
+This project includes features such as password encryption, email validation, and the use of a query builder for database operations.
+
+
 
  # Technologies
  - NodeJs
